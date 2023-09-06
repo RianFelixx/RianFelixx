@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rian Felix👋
 
 - 🔭 Apaixonado por programação
-- 🌱 Estudante de Desenvolvimento Web na Trybe 2/12
+- 🌱 Estudante de Desenvolvimento Web na Trybe 6/12
 
 <div align="center">
   <a href="https://github.com/RianFelixx">
